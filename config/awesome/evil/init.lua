@@ -1,0 +1,8 @@
+require("evil.battery")
+require("evil.ram")
+require("evil.temperature")
+require("evil.sysload")
+require("evil.volume")
+require("evil.acpid")
+require("evil.brightness")
+require("evil.mpd")
